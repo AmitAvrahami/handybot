@@ -42,4 +42,4 @@ Future development of the project includes:
 
 ## Demo Video
 For a demonstration of the system in action, please watch the following video:
-[Watch the demo] (https://www.youtube.com/watch?v=DdISPnmMqYc)
+(https://www.youtube.com/watch?v=DdISPnmMqYc)
